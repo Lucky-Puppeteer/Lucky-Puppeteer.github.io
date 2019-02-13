@@ -1,0 +1,46 @@
+anchor {
+  text-decoration:none;
+  color:saddlebrown;
+}
+h1, h2 {
+  color:sienna;
+}
+      h2 {
+        text-decoration:underline;
+      }
+sup {
+  font-size:9px; 
+      }
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:forestgreen;
+}
+
+li {
+  float:left;
+}
+
+ul li a {
+  display: block;
+  color:saddlebrown;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+ul li a:hover {
+  background-color: #111;
+}
+      body {background-color:darkgrey;
+}
+#font {
+  font-family:"Burbank Big Cd Bk";
+  font-size:22px;
+}
+h3 {
+  text-decoration:underline;
+}
